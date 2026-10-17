@@ -1,1 +1,11 @@
-# portfolio-demo-08  Playwright QA automation demo  ## Overview  This repository is a sample project for a portfolio.  ## Tech Stack  - GitHub - Java / Python / JavaScript / .NET  ## Notes  This sample was created to demonstrate project structure and GitHub publishing workflow.
+# Playwright QA Demo
+
+TypeScript + Playwright UI automation example by **Sarath Panguluri**, Test Automation Engineer.
+
+```bash
+npm install
+npx playwright install
+npm test
+```
+
+Illustrative title assertion against `https://example.com`. Not executed or validated during publication.
